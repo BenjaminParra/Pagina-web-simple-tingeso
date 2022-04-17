@@ -1,0 +1,5 @@
+package com.paginasimple.springboot.controller;
+
+public class MensajeInicial {
+
+}
