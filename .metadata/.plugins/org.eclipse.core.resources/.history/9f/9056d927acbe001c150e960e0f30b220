@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MensajeInicial {
 	@RequestMapping(method = RequestMethod.GET)
 	public String home() {
-		return "hola mundo que tal están, esto es para un commit";
+		return "hola mundo que tal están";
 	}
 
 }
