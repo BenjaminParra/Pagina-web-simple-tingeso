@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MensajeInicial {
 	@RequestMapping(method = RequestMethod.GET)
 	public String home() {
-		return "Aplicación web muy simple modificada por el branch";
+		return "Buenos días usach";
 	}
 
 }
